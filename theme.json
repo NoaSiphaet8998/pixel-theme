@@ -85,8 +85,8 @@
             "hsla(214, 9.9%, 50.4%, 0.08)"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "rgba(255, 255, 255, 0.03)",
-            "rgba(139, 116, 139, 0.16)"
+            "rgba(255, 255, 255, 0.3)",
+            "rgba(139, 116, 139, 0.6)"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#1e1e2e",
